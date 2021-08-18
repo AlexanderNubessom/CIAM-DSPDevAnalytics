@@ -27,7 +27,6 @@
     </fieldPermissions>
     <hasActivationRequired>false</hasActivationRequired>
     <label>PlatformEventMonitorAdminUser</label>
-    <license>Salesforce</license>
     <objectPermissions>
         <allowCreate>true</allowCreate>
         <allowDelete>true</allowDelete>
