@@ -27,7 +27,6 @@
     </fieldPermissions>
     <hasActivationRequired>false</hasActivationRequired>
     <label>PlatformEventMonitorIntegrationUser</label>
-    <license>Analytics Cloud Integration User</license>
     <objectPermissions>
         <allowCreate>true</allowCreate>
         <allowDelete>true</allowDelete>
