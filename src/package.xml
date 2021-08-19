@@ -42,21 +42,5 @@
         <members>PlatformEventMonitorIntegrationUser</members>
         <name>PermissionSet</name>
     </types>
-    <types>
-        <members>IoT_Explorer</members>
-        <name>WaveApplication</name>
-    </types>
-    <types>
-        <members>Platform_Event_Monitoring</members>
-        <name>WaveDashboard</name>
-    </types>
-    <types>
-        <members>PlatformEventsMonitoringEltWorkflow</members>
-        <name>WaveDataflow</name>
-    </types>
-    <types>
-        <members>CountPlatformEventObjects</members>
-        <name>WaveDataset</name>
-    </types>
     <version>40.0</version>
 </Package>
